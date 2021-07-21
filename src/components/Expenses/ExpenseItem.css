@@ -6,7 +6,7 @@
   padding: 0.5rem;
   margin: 1rem 0;
 
-  background-color: #1d1001;
+  background: linear-gradient(to right, #3f1313, #660159);
 }
 
 .expense-item__description {
@@ -31,7 +31,7 @@
   font-size: 1rem;
   font-weight: bold;
   color: white;
-  background: #a80202;
+  background: linear-gradient(to right, #130000, #7e0011);
   border: 1px solid white;
   padding: 0.5rem;
   border-radius: 12px;
